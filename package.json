@@ -1,6 +1,6 @@
 {
 	"name": "zz.models",
-	"version": "20161007.0.0",
+	"version": "20161007.0.1",
 	"description": "Models module for imazzine-developer-lib.",
 	"author": {
 		"name": "Artem Lytvynov",
