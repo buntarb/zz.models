@@ -1,0 +1,9 @@
+NAMESPACE: 'zz.models.models.testModel'       
+
+FIELDS:
+
+  test:
+
+    index: 0
+    type: zz.models.enums.FieldType.STRING
+    required: false
