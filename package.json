@@ -1,6 +1,6 @@
 {
 	"name": "zz.models",
-	"version": "20161223.0.1",
+	"version": "20161227.0.1",
 	"description": "Models module for imazzine-developer-lib.",
 	"author": {
 		"name": "Artem Lytvynov",
@@ -22,6 +22,7 @@
 	    "imazzine-developer-kit": "",
 		"zz.events": "",
 		"zz.environment": "",
-		"zz.controllers": ""
+		"zz.controllers": "",
+		"zz.tests": ""
 	}
 }
