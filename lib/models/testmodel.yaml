@@ -2,8 +2,20 @@ NAMESPACE: 'zz.models.models.testModel'
 
 FIELDS:
 
-  test:
+  string:
 
     index: 0
     type: zz.models.enums.FieldType.STRING
+    required: false
+
+  number:
+
+    index: 1
+    type: zz.models.enums.FieldType.NUMBER
+    required: false
+
+  boolean:
+
+    index: 2
+    type: zz.models.enums.FieldType.BOOLEAN
     required: false
